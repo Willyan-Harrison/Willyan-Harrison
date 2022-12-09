@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Will
 
  <div>
-  <a href="https://github.com/Willyan-X">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willyan-X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyan-X&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/Willyan-Harrison">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willyan-Harrison&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyan-Harrison&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,6 +15,6 @@
   
 <div> 
  
-  ![Snake animation](https://github.com/Willyan-X/Willyan-X/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Willyan-Harrison/Willyan-Harrison/blob/output/github-contribution-grid-snake.svg)
 
 </div>
